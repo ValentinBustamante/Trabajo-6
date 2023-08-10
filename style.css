@@ -1,0 +1,42 @@
+body{
+    background-color: #F3C300; background-image: url("C:/Users/usuario/Saved Games/Animate a Programar/Trabajo Final/fondo/central.jpg"); background-attachment: fixed;
+}
+.header{
+    background-color: #8CBDFF; border-bottom-width:20px; border-color:blue; border-style:groove; width:100%;
+}
+.footer{
+    background-color: #8CBDFF; width:100%; 
+}
+h1{
+    font-size: 500%; font-family:aharoni; 
+}
+h2{
+    font-family:aharoni;
+}
+p{
+    font-size: 50%;
+}
+#destacado{
+    background-color: #ff8c8c;
+}
+form{
+    background-color: yellowgreen; border-color: gold; border-style:groove; width:500px; 
+}
+.ropa{
+    background-color: yellowgreen; border-color: green; border-style:dashed; border-width:5px;
+}
+.link a:hover{
+    background-color:yellow;
+}
+.enlace{
+    display: inline-flex; padding: 20px; margin-right: 5%; background-color: yellowgreen; font-size:200%; border-style: groove; list-style: none;
+} 
+a{
+    text-decoration:none;
+}
+    
+ 
+
+
+
+
